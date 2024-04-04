@@ -2,12 +2,11 @@
 ## Classic Films App
 
 ## Description 
-The Classi Films App is a . 
-It allows users to. 
-The app is built using JavaScript with the React library and CSS for styling.
+The Classic Films App is a web application designed to provide users with a curated selection of classic films. Whether you're a dedicated cinephile or just looking to explore the world of cinema, the app offers a seamless browsing experience with a focus on timeless cinematic masterpieces. Built using JavaScript with the React library and styled with CSS, the Classic Films App brings the magic of classic movies to your fingertips.
 
 Functionality:
- - 
+ - Browse a curated selection of classic films.
+ - Save favorite films to a personalized watchlist.
 
 ## How to Run
 To run the Classic Films App on your machine, follow these steps: 
@@ -30,8 +29,10 @@ To run the Classic Films App on your machine, follow these steps:
 	
 ## Roadmap of Future Improvements
 Future improvements for the Classic Films App include:
- - 
- 
+ - Implementing user authentication and accounts to save personalized watchlists.
+ - Adding additional filtering options for browsing films by era, country of origin, and more.
+ - Incorporating user ratings and reviews for each film.
+
 
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
