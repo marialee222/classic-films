@@ -7,6 +7,7 @@ The Classic Films App is a web application designed to provide users with a cura
 Functionality:
  - Browse a curated selection of classic films.
  - Save favorite films to a personalized watchlist.
+<img width="1181" alt="classic-films" src="https://github.com/marialee222/classic-films/assets/150623001/36ecd935-31ad-4e6a-88db-834e2ccabbb0">
 
 ## How to Run
 To run the Classic Films App on your machine, follow these steps: 
